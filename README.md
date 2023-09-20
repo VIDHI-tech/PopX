@@ -9,6 +9,15 @@ You can view a live demo of PopX [Netlify Deployment URL](https://educasee.netli
 
 ### PopX Demo
 
+
+https://github.com/VIDHI-tech/PopX/assets/120549998/90780479-6a75-4c6a-bc16-e236e06d40ff                 
+
+
+
+https://github.com/VIDHI-tech/PopX/assets/120549998/a1333af1-4081-4e3e-bccd-382da9d09702
+
+
+
 ### Technologies Used
 React
 React Router
@@ -24,27 +33,6 @@ Profile management, displaying user information.
 Responsive design for both desktop and mobile devices.
 Installation
 
-## To run PopX locally, follow these steps:
-
-### Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/popx.git
-
-### Navigate to the project folder:
-bash
-Copy code
-cd popx
-
-## Install dependencies:
-### bash
-### Copy code
-### npm install
-
-## Start the development server:
-### bash
-### Copy code
-### npm start
 
 ## Usage
 Access the PopX web application using your browser.
@@ -59,16 +47,37 @@ Firstly user see Landing page which has two Buttons:
 ## Additional Functionality
 
 ### Logout Button
-
 PopX includes a user-friendly logout feature that allows users to securely log out of their accounts while preserving their account information for future use. When users click the "Logout" button, they are redirected to the landing page and can easily log back in with their existing credentials.
 
 ### Signout Button
-
 In addition to the logout feature, PopX offers a "Signout" button. Unlike the traditional logout functionality, signout deletes the user's account data from local storage. It provides a way for users to completely remove their account from the application.
 
 To use the signout feature, simply click the "Signout" button on the profile page. This action will clear your account data, and you will need to create a new account if you wish to use PopX again in the future.
 
 I believe that offering both logout and signout options provides flexibility and choice to our users, ensuring their experience with PopX is as seamless as possible.
+
+
+## To run PopX locally, follow these steps:
+
+### Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/popx.git
+
+### Navigate to the project folder:
+bash
+Copy code
+cd popx
+
+### Install dependencies:
+bash
+Copy code
+npm install
+
+### Start the development server:
+bash
+Copy code
+npm start
 
 
 ## Contributing
