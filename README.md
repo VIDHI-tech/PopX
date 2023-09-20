@@ -64,7 +64,7 @@ I believe that offering both logout and signout options provides flexibility and
 ### Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/popx.git
+git clone https://github.com/VIDHI-tech/PopX.git
 
 ### Navigate to the project folder:
 bash
