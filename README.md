@@ -1,3 +1,93 @@
+# PopX - User Management System
+## Project Overview
+PopX is a user management system that allows users to create accounts, log in, and manage their profiles. It was developed as a recruitment task for a company to demonstrate skills in web development, particularly with React and React Router.
+
+The motivation behind this project was to showcase the ability to create a responsive web application with user authentication and data storage using local storage. PopX serves as a basic user management system that can be extended and integrated into more comprehensive applications.
+
+### Deployment
+You can view a live demo of PopX [Netlify Deployment URL](https://educasee.netlify.app).
+
+### PopX Demo
+
+### Technologies Used
+React
+React Router
+HTML/CSS
+JavaScript
+
+### Features
+Data Control by using *React-router-dom* .
+User registration with name, phone number, email, password, and company name (optional).
+To save data used *Localstorage* .
+User login with email and password.
+Profile management, displaying user information.
+Responsive design for both desktop and mobile devices.
+Installation
+
+## To run PopX locally, follow these steps:
+
+### Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/popx.git
+
+### Navigate to the project folder:
+bash
+Copy code
+cd popx
+
+## Install dependencies:
+### bash
+### Copy code
+### npm install
+
+## Start the development server:
+### bash
+### Copy code
+### npm start
+
+## Usage
+Access the PopX web application using your browser.
+
+Firstly user see Landing page which has two Buttons:
+1. To create an account, click the "Create Account" button on the landing page. Fill in the required information and click "Create Account" and data get stored in *localstorage*.
+
+2. To log in, click the "Already Registered? Login" button on the landing page. Enter your email and password, then click "Login."
+
+3. After logging in, you'll be redirected to the profile page, where you can view your user information.
+
+## Additional Functionality
+
+### Logout Button
+
+PopX includes a user-friendly logout feature that allows users to securely log out of their accounts while preserving their account information for future use. When users click the "Logout" button, they are redirected to the landing page and can easily log back in with their existing credentials.
+
+### Signout Button
+
+In addition to the logout feature, PopX offers a "Signout" button. Unlike the traditional logout functionality, signout deletes the user's account data from local storage. It provides a way for users to completely remove their account from the application.
+
+To use the signout feature, simply click the "Signout" button on the profile page. This action will clear your account data, and you will need to create a new account if you wish to use PopX again in the future.
+
+I believe that offering both logout and signout options provides flexibility and choice to our users, ensuring their experience with PopX is as seamless as possible.
+
+
+## Contributing
+PopX is an open-source project, and contributions are welcome! If you'd like to contribute, please follow these guidelines:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and test them thoroughly.
+Submit a pull request with a clear description of your changes.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+If you have any questions, feedback, or suggestions, please feel free to contact the project maintainer:
+
+[My Email Address](vidhigaydhane27@gmail.com)
+[My GitHub Profile](https://github.com/VIDHI-tech)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
