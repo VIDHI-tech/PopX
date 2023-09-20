@@ -21,9 +21,9 @@ https://github.com/VIDHI-tech/PopX/assets/120549998/a1333af1-4081-4e3e-bccd-382d
 
 
 ### Technologies Used
-React
-React Router
-HTML/CSS
+React |
+React Router |
+HTML/CSS |
 JavaScript
 
 ### Features
