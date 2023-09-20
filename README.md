@@ -1,10 +1,12 @@
 # PopX - User Management System
+[Netlify Deployment URL](https://educasee.netlify.app)
+
 ## Project Overview
 PopX is a user management system that allows users to create accounts, log in, and manage their profiles. It was developed as a recruitment task for a company to demonstrate skills in web development, particularly with React and React Router.
 
 The motivation behind this project was to showcase the ability to create a responsive web application with user authentication and data storage using local storage. PopX serves as a basic user management system that can be extended and integrated into more comprehensive applications.
 
-### Deployment
+## Deployment
 You can view a live demo of PopX [Netlify Deployment URL](https://educasee.netlify.app).
 
 ### PopX Demo
